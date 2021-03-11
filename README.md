@@ -2,7 +2,8 @@
 
 example :
 
-   input 
+   input :
+   
        num main(){
            num a ;
            num b ;

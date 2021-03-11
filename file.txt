@@ -1,0 +1,5 @@
+num main(){
+    num a;
+    a=9+8;
+    return 0;
+}

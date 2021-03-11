@@ -2,7 +2,7 @@
 
 This program works for the Tslang programming language .
 
-The program reads a file containing the programming code in the Tslang language and prints its tokens
+The program reads a file containing the programming code in the Tslang language and prints its tokens .
 
 example :
 

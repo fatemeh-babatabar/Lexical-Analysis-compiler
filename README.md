@@ -17,26 +17,23 @@ example :
     
    output :
        
-                 num
-		 main
-		 (
-		 )
-		 {
-		 num
-		 a
-		 ;
-		 num 
-		 b
-		 ;
-		 a
-		 =
-		 b
-		 +
-		 9
-		 return 
-		 0 ;
-		 }
-
-    
-    
-    
+       num
+       main
+       (
+       )
+       {
+       num
+       a
+       ;
+       num 
+       b
+       ;
+       a
+       =
+       b
+       +
+       9
+       return 
+       0
+       ;
+       }

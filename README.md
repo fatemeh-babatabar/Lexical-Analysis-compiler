@@ -10,5 +10,7 @@ example :
            a = b + 9 ;
            return 0 ;
        }
-       
-    output :
+    
+    
+    
+    

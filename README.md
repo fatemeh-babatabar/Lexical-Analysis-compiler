@@ -11,6 +11,28 @@ example :
            return 0 ;
        }
     
+   output :
+       
+       num
+		 main
+		 (
+		 )
+		 {
+		 num
+		 a
+		 ;
+		 num 
+		 b
+		 ;
+		 a
+		 =
+		 b
+		 +
+		 9
+		 return 
+		 0 ;
+		 }
+
     
     
     

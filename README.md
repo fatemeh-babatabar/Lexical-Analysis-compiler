@@ -1,4 +1,4 @@
-# tokenizers
+# Lexical Analysis
 
 The program reads a file containing the programming code in the Tslang language and prints its tokens .
 
